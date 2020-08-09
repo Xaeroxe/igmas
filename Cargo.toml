@@ -1,0 +1,2 @@
+[workspace]
+members = ["igmas-client", "igmas-server", "igmas-shared"]
